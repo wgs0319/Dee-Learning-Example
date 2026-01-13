@@ -1,4 +1,4 @@
-# Telco_Customer
+# Vehicle_Classification
 
 ## 프로젝트 소개
 머신 러닝을 이용한 통신 서비스 고객 이탈에 영향을 미치는 요인 분석 및 예측
